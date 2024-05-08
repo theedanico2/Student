@@ -13,7 +13,7 @@ const Register = () => {
         <View style={styles.container}>
             <Image style={styles.image}
                    source={{
-                       uri: 'https://avatanplus.com/files/resources/original/58b43910577bd15a7ffee7e6.png',
+                       uri: 'https://yt3.googleusercontent.com/ytc/AIf8zZS5-w-s2K8_JFeHXG9Tb0ehxfyYGSgR4y9kvWZSgQ=s900-c-k-c0x00ffffff-no-rj',
                    }}
             />
 

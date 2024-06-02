@@ -1,11 +1,9 @@
-import React, {useState} from 'react';
+import React from 'react';
 import {
     StyleSheet,
     Image,
     View,
-    Text,
-    TouchableOpacity,
-    ImageBackground,
+    Text
 } from 'react-native';
 
 export default function ProfileHeader() {
